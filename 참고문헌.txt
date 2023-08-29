@@ -1,0 +1,93 @@
+
+https://rubber-tree.tistory.com/entry/AI-%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-%EB%94%A5%EB%9F%AC%EB%8B%9D-%EC%9D%B4%EB%9E%80-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%EB%94%A5%EB%9F%AC%EB%8B%9D-%EB%AA%A8%EB%8D%B8-%EC%A2%85%EB%A5%98
+ - AI, 머신러닝, 딥러닝 개념
+
+https://bokji.or.kr/sub/sub06_01.php - 시각장애 개념
+http://www.kbuwel.or.kr/Blind/What - 시각장애 개념2
+
+https://sungwookkang.com/1408  - CNN 개념
+https://bong-sik.tistory.com/21  - CNN 개념 2
+
+https://easyfly.tistory.com/374  - 코랩 이란
+
+https://zeuskwon-ds.tistory.com/49 - CNN 모델 만들기
+
+https://goatlab.tistory.com/85  - layer 참고
+
+https://westshine-data-analysis.tistory.com/67 - Rulu 함수
+
+
+https://ko.wikipedia.org/wiki/MariaDB - MariaDB 개념
+
+https://damduc.tistory.com/4  - DB 사용자 계정 생성
+
+
+https://1d1cblog.tistory.com/27 - 라즈베리파이 MariaDB 설정
+
+http://aispiration.com/raspberry-pi/rpi-picam.html - 라즈베리파이 카메라제어
+
+https://youngyin.tistory.com/24 - 라즈베리파이 버튼제어
+
+https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=icbanq&logNo=221228946516 - 라즈베리파이 그림
+https://www.eleparts.co.kr/goods/view?no=3824792 - 카메라 모듈 그림
+https://ko.aliexpress.com/i/4000063924049.html - 3핀 스위치 모듈 그림
+http://m.techshenzhen.com/goods/goods_view.php?goodsNo=1000000285  - 점퍼선 그림
+
+
+
+[그림 1] FNN을 이용하여 이미지처리를 위한 벡터화
+[그림 2] CNN 구조
+[그림 3] 시스템 개발 과정
+[그림 4] 데이터 개수 시각화
+[그림 5] cnn 딥러닝 모델 구성
+[그림 6] filter 예시
+[그림 7] convolution layer 구조
+[그림 8] 활성화 함수 종류
+[그림 9] pooling 예시
+[그림 10] flattening 예시
+[그림 11] fully connected layer 예시
+[그림 12] sorftmax 함수 시각화
+[그림 13] Categorical Cross-entropy 예시
+[그림 14] Adam 경사 하강법 수식
+[그림 15] CNN 모델 학습
+[그림 16] 모델 학습 정확도 시각화
+[그림 17] 모델 학습 손실도 시각화
+[그림 18] MariaDB database 및 table 구성                                
+[그림 19] 하드웨어 설계도
+[그림 20] 서비스 구성
+[그림 21] 유스케이스 다이어그램
+[그림 22] 완성된 라즈베리파이 기기
+[그림 23] 실험 예시
+[그림 24] 이미지 분류 결과
+[그림 25] 데이터베이스 이미지 데이터 카운트
+
+[표 1] 데이터 세트 구성표
+[표 2] 하드웨어 구성표
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
